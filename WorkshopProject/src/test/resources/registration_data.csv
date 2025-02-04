@@ -1,0 +1,5 @@
+firstname,lastname,dynamicEmail,telephone,password,confirmPassword,subscribe
+John,Doe,john.doe@example11.com,1234567890,Pass@123,Pass@123,Yes
+Matheu,Arthur,matheu.arthur@example11.com,9876543210,Secure@456,Secure@456,No
+David,Lam,david.lam@example11.com,1122334455,Strong@789,Strong@789,Yes
+Michael,Clark,michael.clark@example11.com,5566778899,Safe@321,Safe@321,No
